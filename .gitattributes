@@ -1,0 +1,3 @@
+*.dsw linguist-language=c
+*.cpp linguist-language=c
+*.bmp linguist-language=c
